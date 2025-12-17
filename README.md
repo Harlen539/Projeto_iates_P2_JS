@@ -1,1 +1,1 @@
-# Projeto_iates_P2_JS
+# frontend-projeto-iates
